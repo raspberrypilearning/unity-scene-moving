@@ -1,59 +1,14 @@
-## Introduction
+Click on the right mouse button to use flythrough mode:
++ WASD to move around
++ QE for up and down
++ Shift to go faster. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Use the scroll wheel on your mouse to zoom in and out. Your trackpad may also have a scroll motion.
 
-### What you will make
+To move the scene around, hold the ALT key and the middle mouse button and then drag to move. You can also use the arrow keys to move around. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+To focus on an object, click on the game object in the scene view and then click F.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+You can also click on an object in the Hierarchy and then click Shift-F to focus on that game object in the Scene view. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** If you get lost, click on your Player in the Hierarchy and then Shift-F to focus on the player. Then you can use the scroll wheel to zoom out. 
